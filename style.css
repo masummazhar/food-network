@@ -1,0 +1,67 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: orange;
+}
+.food{
+    display: flex;
+    margin-bottom: 80px;
+    padding-left: 50px;
+    
+}
+.half{
+    width: 50%;    
+}
+.half img{
+    width: 100%; 
+}
+.buton{
+    text-decoration: none;
+    background: linear-gradient(orange, tomato);
+    border-radius: 30px;
+    padding: 10px 15px;
+    color: white;
+    font-weight: 400;
+
+}
+.about{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    background-position:left ;
+}
+.about img {
+    width: 80%;
+}
+.recipe{
+    
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 20px 150px;
+}
+.iteam{
+
+    display: flex;
+
+}
+.iteam img{
+    width: 100%;
+}
+.pic{
+    width: 33.33%;
+    padding: auto;
+    margin: 0px 30px 100px 30px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: gainsboro;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
